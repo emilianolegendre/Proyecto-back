@@ -1,0 +1,4 @@
+A HACER:
+-saber las variables que va a tener el prototipo
+-tener venv de fastapi
+-identificar websocket
